@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+timm
+opencv-python
+pandas
+tqdm
+dlib 
