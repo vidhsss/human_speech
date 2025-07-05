@@ -1,0 +1,6 @@
+Speaker: s11
+Transcription: bin green with a seven again
+Video path: /data/user_data/vidhij2/gridcorpus/video/s11/s11/bgwa7a.mpg
+Dimensions: 360x288
+FPS: 25.0
+Frame count: 75

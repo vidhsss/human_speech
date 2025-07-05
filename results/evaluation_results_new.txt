@@ -1,0 +1,9 @@
+Model Type: lipnet
+Use Optical Flow: True
+Use Audio: False
+
+Training samples: 2396
+Test samples: 600
+
+wer: 0.7552
+cer: 0.7068

@@ -1,0 +1,20 @@
+Model Type: baseline
+Use Optical Flow: False
+Use Audio: False
+
+Training samples: 2396
+Test samples: 600
+
+wer: 1.3678
+cer: 1.3402
+
+
+Model Type: Lipnet
+Use Optical Flow: False
+Use Audio: False
+
+Training samples: 2396
+Test samples: 600
+
+wer: 0.7552
+cer: 0.7068
